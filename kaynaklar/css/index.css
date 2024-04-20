@@ -1,0 +1,16 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  color: rgb(87, 108, 223);
+}
+
+p,
+li {
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+}
