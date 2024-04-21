@@ -1,0 +1,26 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+#header {
+  block-size: auto;
+  background-image: url("../gözlük/2.jpg");
+  font-size: 60px;
+}
+
+#list {
+  font-weight: bold;
+  text-align: left;
+  margin: 0 auto;
+  padding: 20px;
+}
+.resim {
+  width: 500px;
+  height: 400px;
+}
+.ilk p {
+  font-size: 20px;
+}
+.last p {
+  font-size: 20px;
+}
